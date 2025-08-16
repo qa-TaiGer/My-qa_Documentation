@@ -52,4 +52,4 @@ Cсылка на переписку чтобы все "вспомнили" о ч
 - Наблюдатели (follower)
 - Исполнители (assignee)
 
-## Автор. Герасимова Таисия ([@Taisiya_d_geras](https://t.me/Taisiya_d_geras))
+ Автор. Герасимова Таисия ([@Taisiya_d_geras](https://t.me/Taisiya_d_geras))
