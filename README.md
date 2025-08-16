@@ -51,3 +51,5 @@ Cсылка на переписку чтобы все "вспомнили" о ч
 - Severity
 - Наблюдатели (follower)
 - Исполнители (assignee)
+
+## Автор. Герасимова Таисия ([@Taisiya_d_geras](https://t.me/Taisiya_d_geras))
